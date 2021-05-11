@@ -1,0 +1,20 @@
+{
+    "name": "mikepros/shapes",
+    "description": "Test package",
+    "type": "library",
+    "version" : "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mikepros",
+            "email": "mike.proshchuk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "Mikepros\\Shapes\\" : "src"    
+        }
+    }
+}
